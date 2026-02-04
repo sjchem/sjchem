@@ -5,11 +5,7 @@ I’m a Data Scientist & AI Engineer focused on building production-ready ML and
 ⚙️ Experience deploying models with FastAPI, Docker, MLflow, and cloud platforms (GCP / Azure)
 🧪 Strong analytical foundation from large-scale scientific and industrial datasets
 
-## 🚀 What I Work On
-Machine Learning & Deep Learning
-XGBoost, LightGBM, CNNs (ResNet, VGG), time-series modeling, computer vision
-GenAI & LLM Applications
-Retrieval-Augmented Generation (RAG), agentic workflows, prompt engineering, evaluation & guardrails
-Data Engineering & MLOps
-Python, SQL, APIs, CI/CD, observability, scalable ML systems
+## My Latest Blog Post in Medium
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sjchem/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sjchem/0" alt="Recent Article 0"> 
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sjchem/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sjchem/2" alt="Recent Article 2"> 
