@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I’m Santanu Jana
+I’m a Data Scientist & AI Engineer focused on building production-ready ML and GenAI systems that turn complex data into actionable impact.
+🔍 Background in Machine Learning, GenAI, and MLOps
+🧠 Working with LLMs, RAG, LangChain, CrewAI, and ML pipelines
+⚙️ Experience deploying models with FastAPI, Docker, MLflow, and cloud platforms (GCP / Azure)
+🧪 Strong analytical foundation from large-scale scientific and industrial datasets
 
-<!--
-**sjchem/sjchem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Work On
+Machine Learning & Deep Learning
+XGBoost, LightGBM, CNNs (ResNet, VGG), time-series modeling, computer vision
+GenAI & LLM Applications
+Retrieval-Augmented Generation (RAG), agentic workflows, prompt engineering, evaluation & guardrails
+Data Engineering & MLOps
+Python, SQL, APIs, CI/CD, observability, scalable ML systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
