@@ -6,6 +6,7 @@
 I'm an AI/ML Engineer passionate about designing and deploying scalable machine learning solutions and GenAI systems in production environments. With hands-on experience in building POCs and MVPs for AI-related platforms, I specialize in transforming complex data challenges into intelligent, actionable solutions. I lead teams to build innovative AI solutions that drive real-world impact.
 
 **LinkedIn:** https://www.linkedin.com/in/sjchem/
+
 **YouTube:** https://www.youtube.com/@dataalchemistAI
 
 ### 💼 Experience & Expertise
